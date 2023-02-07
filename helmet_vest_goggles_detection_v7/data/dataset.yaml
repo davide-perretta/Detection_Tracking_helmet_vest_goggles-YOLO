@@ -1,6 +1,6 @@
-train: C:\Users\Davide\Tesi\master\helmet_vest_goggles_detection_v7\data\train
-val: C:\Users\Davide\Tesi\master\helmet_vest_goggles_detection_v7\data\valid
-test: C:\Users\Davide\Tesi\master\helmet_vest_goggles_detection_v7\data\test
+train: ..\folder path train
+val: ..\folder path validation
+test: ..\folder path test
 
 nc: 4
 
