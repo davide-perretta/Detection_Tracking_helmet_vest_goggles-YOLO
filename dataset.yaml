@@ -1,0 +1,7 @@
+train: ..\FolderPathTrain
+val: ..\FolderPathVal
+test: ..\FolderPathTest
+
+nc: 4
+
+names: ['person', 'helmet', 'vest', 'goggles']
