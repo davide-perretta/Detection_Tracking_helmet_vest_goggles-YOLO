@@ -1,7 +1,0 @@
-train: C:\Users\Davide\Tesi\helmet_vest_goggles_detection_v5\data\train
-val: C:\Users\Davide\Tesi\helmet_vest_goggles_detection_v5\data\valid
-test: C:\Users\Davide\Tesi\helmet_vest_goggles_detection_v5\data\test
-
-nc: 4
-
-names: ['person', 'helmet', 'vest', 'goggles']
