@@ -1,0 +1,42 @@
+train: ..\folder path train
+val: ..\folder path validation
+test: ..\folder path test
+
+nc: 4
+
+names: ['person', 'helmet', 'vest', 'goggles']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
